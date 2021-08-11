@@ -27,10 +27,10 @@ function setup(){
   boy.addAnimation("boy running", boyAnimation);
   boy.scale = 0.1;
 
-  boundry1 = createSprite(64,5,10,800);
+  boundry1 = createSprite(30,5,10,800);
    boundry1.visible = false;
 
-  boundry2 = createSprite(343,5,10,800);
+  boundry2 = createSprite(380,5,10,800);
   boundry2.visible = false;
  
   
